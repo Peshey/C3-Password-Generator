@@ -15,7 +15,7 @@ To use the password generator, the user will click the generate password button 
 The deployed site can be found here: https://peshey.github.io/C3-Password-Generator/
 
 
-    ![password generator site](./Develop/password-generator.PNG)
+    ![password generator site](/Develop/password-generator.PNG)
     
 
 ## Credits
