@@ -12,11 +12,11 @@ n/a
 
 To use the password generator, the user will click the generate password button and then be prompted to enter how long the password will be and which types of characters to be included in the password. Once the user finishes all the selections the password will be generated and will appear inside of the text area.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+The deployed site can be found here: https://peshey.github.io/C3-Password-Generator/
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+
+    ![password generator site](./Develop/password-generator.PNG)
+    
 
 ## Credits
 
